@@ -1,0 +1,14 @@
+envjarvis/  
+__pycache__/  
+*.pyc  
+*.db  
+*.env  
+.env  
+.vscode/  
+cookies.json  
+engine/auth/samples/  
+www/assets/audio/  
+www/assets/img/  
+*.mp3  
+*.jpg  
+*.png  
